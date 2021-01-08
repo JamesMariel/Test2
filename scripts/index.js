@@ -49,9 +49,9 @@ x = setInterval(function() {
     hh = h / 2,
     opts = {
       strings: ['HAPPY', 'Birthday!', config.name, 'Wish', 'You', 'All', 'the Best'],
-      charSize: 40,
+      charSize: 25,
       charSpacing: 25,
-      lineHeight: 50,
+      lineHeight: 35,
 
       cx: w / 2,
       cy: h / 2,
@@ -78,7 +78,7 @@ x = setInterval(function() {
       gravity: 0.1,
       upFlow: -0.1,
       letterContemplatingWaitTime: 360,
-      balloonSpawnTime: 30,
+      balloonSpawnTime: 20,
       balloonBaseInflateTime: 10,
       balloonAddedInflateTime: 10,
       balloonBaseSize: 20,
