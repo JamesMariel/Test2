@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: ' November 11, 2024',
+  birthdate: ' September 11, 2024',
   name: '  Kyi Pyar'
 };
 
